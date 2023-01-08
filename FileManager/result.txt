@@ -1,0 +1,12 @@
+pizza Napoletana, is a type of pizza that originated in Naples, Italy. This style of pizza is prepared with simple and fresh ingredients: a basic dough, raw tomatoes, fresh mozzarella cheese, fresh basil, and olive oil. No fancy toppings are allowed!
+One of its defining characteristics is that there is often more sauce than cheese. This leaves the middle of the pie wet or soggy and not conducive to being served by the slice. Because of this, Neapolitan pizzas are generally pretty small (about 10 to 12 inches), making them closer to the size of a personal pizza.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+require 'Folder 2\File 2-1'
+require 'Folder 1\File 1-1'
+require 'Folder 2\File 2-1'
+As the fastest aircraft ever built, the North American x-15 is classified as hypersonic rather than supersonic since it can travel faster than five times the speed of sound. It still holds the record for the fastest manned aircraft, with the majority of later aircraft not even coming close. Its peak speed is 4520 mph (6.7 Mach).
+The plane had to be dropped from another aircraft because its tail fin prevented it from taking off at slow speeds. Prior to being retired, the aircraft was primarily utilized for research flights, but it nevertheless achieved a record for speed that hasn’t been surpassed in any way.
